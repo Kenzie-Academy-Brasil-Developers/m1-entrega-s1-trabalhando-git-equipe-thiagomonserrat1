@@ -26,3 +26,11 @@ Depois que todas as pessoas da equipe terminarem o projeto, revisem os passos a 
 ## Links
 
 Tenha certeza de enviar o link do repositório do Github.
+
+#Entrega: Trabalhando em equipe com git.
+
+## Fato sobre <nome do dev>
+
+1. Thiago Henrique Monserrat Rezende;
+2. Eu amo a vida e quem nela vive;
+3. Sempre tive contato com computadores e tecnoligia, mas so depois de mais velho resolvi tentar alanvancar uma carreira como DEV;
